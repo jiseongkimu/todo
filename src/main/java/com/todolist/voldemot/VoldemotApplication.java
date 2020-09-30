@@ -9,6 +9,6 @@ public class VoldemotApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(VoldemotApplication.class, args);
 	}
-	/////
+
 
 }
